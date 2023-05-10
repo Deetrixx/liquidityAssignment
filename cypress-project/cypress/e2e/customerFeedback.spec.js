@@ -1,4 +1,4 @@
-import CustomerFeedbackPage from '../page_objects/customerFeedbackPage';
+import CustomerFeedbackPage from './page_objects/customerFeedbackPage';
 
 describe('Customer Feedback', () => {
   const customerFeedbackPage = new CustomerFeedbackPage();
